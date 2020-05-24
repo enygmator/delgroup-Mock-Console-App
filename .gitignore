@@ -1,0 +1,4 @@
+*.o
+*.exe
+group1
+/.vscode
