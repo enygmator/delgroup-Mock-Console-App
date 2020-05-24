@@ -1,4 +1,6 @@
 *.o
 *.exe
-group1
+group_Modified
+gshadow_Modified
 /.vscode
+/.vs
